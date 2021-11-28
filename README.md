@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 
 [![https://guillaumepressiat.r-universe.dev/badges/:total](https://guillaumepressiat.r-universe.dev/badges/:total)](https://guillaumepressiat.r-universe.dev/ui#builds)
+
+![Metrics](https://github.com/guillaumepressiat/guillaumepressiat/blob/main/github-metrics.svg)
