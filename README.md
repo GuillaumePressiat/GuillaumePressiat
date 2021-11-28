@@ -1,4 +1,5 @@
 
+## Hello
 
 <!--
 **GuillaumePressiat/GuillaumePressiat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 [![https://guillaumepressiat.r-universe.dev/badges/:total](https://guillaumepressiat.r-universe.dev/badges/:total)](https://guillaumepressiat.r-universe.dev/ui#builds)
+[![https://guillaumepressiat.r-universe.dev/badges/pmeasyr](https://guillaumepressiat.r-universe.dev/badges/pmeasyr)](https://guillaumepressiat.r-universe.dev/ui#builds)
+[![https://guillaumepressiat.r-universe.dev/badges/nomensland](https://guillaumepressiat.r-universe.dev/badges/nomensland)](https://guillaumepressiat.r-universe.dev/ui#builds)
