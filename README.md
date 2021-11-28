@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 
 
 [![https://guillaumepressiat.r-universe.dev/badges/:total](https://guillaumepressiat.r-universe.dev/badges/:total)](https://guillaumepressiat.r-universe.dev/ui#builds)
-[![https://guillaumepressiat.r-universe.dev/badges/pmeasyr](https://guillaumepressiat.r-universe.dev/badges/pmeasyr)](https://guillaumepressiat.r-universe.dev/ui#builds)
-[![https://guillaumepressiat.r-universe.dev/badges/nomensland](https://guillaumepressiat.r-universe.dev/badges/nomensland)](https://guillaumepressiat.r-universe.dev/ui#builds)
